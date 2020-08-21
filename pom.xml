@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <dockerHost>http://114.55.93.2:2375</dockerHost>
+        <dockerHost>http://114.55.93.2:3486</dockerHost>
         <docker.repostory>114.55.93.2:9528/auto_deploy</docker.repostory>
     </properties>
 
